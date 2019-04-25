@@ -1,0 +1,7 @@
+{
+    "orticles": [
+        {"id": 1, "title": "judul", "content": "ini content"},
+        {"id": 2, "title": "dolar sit amet", "content": "dolarun dolare"},
+        {"id": 3, "title": "quaerat abcaecatis", "content": "quaerat abcaecati recusandar"}
+  ]
+}
